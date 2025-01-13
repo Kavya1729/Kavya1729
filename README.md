@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kavya_Mittal
 - 👀 I’m interested in ...exploring Tech World!
 - 🌱 I’m currently persuing ...B.Tech from AKGEC
-- 💞️ I’m looking to collaborate on ...real world solving projects
+- 💞️ I’m looking to collaborate on ...real world problem solving projects
 - 📫 How to reach me ...https://www.linkedin.com/in/mittalkavya/
 - 😄 Pronouns: ...Mr.Mittal suits goods to me, he
 - ⚡ Fun fact: ... Bro Life is Fun!, Just close your eyes and think about your past
