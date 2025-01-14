@@ -1,4 +1,4 @@
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/bbefa799786133.5efa9bf3d1b49.gif" alt="👋 Namaste, my name is Kavya Mittal" style="max-width: 100%; height:300; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Kavya Mittal" style="max-width: 100%; height:300; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Kavya Mittal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
