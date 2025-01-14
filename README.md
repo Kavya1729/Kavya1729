@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*RFK3by-HAKtaTYUp.gif" alt="👋 Namaste, my name is Kavya Mittal" style="max-width: 100%; height:200; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="👋 Namaste, my name is Kavya Mittal" style="max-width: 100%; height:200; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">Hi 👋, I'm Kavya Mittal</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
@@ -39,3 +39,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavya1729&show_icons=true&locale=en&layout=compact" alt="kavya1729" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kavya1729&show_icons=true&locale=en" alt="kavya1729" /></p>
+
+<img align="center" src="https://camo.githubusercontent.com/41b6ed288529487db4a9741abfffe405b2f9f8d85d2eb1974cd714add88cef2d/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6d697474616c62686176796126" alt="mittalkavya" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=kavya1729&amp;" style="max-width: 100%;">
