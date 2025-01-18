@@ -1,4 +1,4 @@
-<img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Kavya Mittal" style="max-width: 100%; height:300px; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://giffiles.alphacoders.com/222/222829.gif" alt="👋 Namaste, my name is Kavya Mittal" style="width: 100%; height: auto; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center" style="font-size: 3em; font-weight: bold;">Hi 👋, I'm Kavya Mittal</h1>
 <h3 align="center" style="font-size: 2em; font-weight: bold;">A passionate Full-Stack developer from India</h3>
 
