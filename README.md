@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on **Gen-Al MERN-Stack project**
 - 💬 Ask me about **react, node.js, express, and database concepts**
 - 📫 How to reach me **mister1729x@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Toy868AL07JSYS2HxsJtXBTym16p4uAk/view?usp=sharing)
 - ⚡ Fun fact: **Can’t resist a good snack**
 
 <h3 align="left" style="font-size: 1.5em; font-weight: bold;">Connect with me:</h3>
