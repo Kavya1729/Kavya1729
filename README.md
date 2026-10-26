@@ -13,7 +13,7 @@
 
 <h3 align="left" style="font-size: 1.5em; font-weight: bold;">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mittalkavya" target="blank" style="margin-right: 10px;">
+  <a href="https://www.linkedin.com/in/kavya-mittal-51a791368/" target="blank" style="margin-right: 10px;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mittalkavya" height="30" width="40" />
   </a>
   <a href="https://instagram.com/mr_kavya1729" target="blank" style="margin-right: 10px;">
